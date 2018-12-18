@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App de noticias</string>
+    <string name="lista_vazia">Lista esta vazia</string>
+    <string name="sem_internet">Sem conexão</string>
+    <string name="botao_buscar">Buscar</string>
+    <string name="busca_noticia">Digite um assunto</string>
+</resources>
